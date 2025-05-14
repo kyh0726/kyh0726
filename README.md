@@ -22,7 +22,7 @@ A passionate and hardworking developer who loves building things from scratch ðŸ
 
 ## ðŸ“ˆ GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyh0726&show_icons=true&theme=tokyonight)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=younghyun753)](https://solved.ac/profile/younghyun753)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younghyun753)
 
 ---
 
