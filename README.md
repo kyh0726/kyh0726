@@ -18,7 +18,7 @@
 - Chrome Storage 활용 경험
 
 ## Server
-- **NestJS / Express / FastAPI**
+- **Springboot / NestJS**
 - REST API 설계 및 기본 인증/인가 처리
 - API 서버 및 데이터 연동 로직 구현
 
