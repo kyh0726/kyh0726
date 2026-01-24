@@ -1,15 +1,15 @@
 ## About Me
 프론트엔드를 중심으로 웹 제품을 만드는 데 관심이 많습니다.  
-사용자 경험을 해치지 않는 구조와 생산적인 개발 환경을 만드는 일을 좋아합니다.  
+사용자 경험을 해치지 않는 구조와 팀이 편하게 개발할 수 있는 환경을 만드는 일에 집중합니다.  
 새로운 기술을 빠르게 실험하고 프로젝트에 적용하는 데 익숙합니다.
 
 ## Web & Webview
 - **React / Next.js**
 - **TypeScript / JavaScript (ES6+)**
-- **Tailwind CSS / Styled-Components**
+- **Tailwind CSS**
 - **Zustand / React Query**
-- **SSR·SSG 기반 아키텍처 경험**
-- **반응형 UI 구현 및 접근성 고려**
+- **Capacitor / PWA 환경에서의 UI 구현**
+- **반응형 UI 구현 및 a11y 고려**
 - **웹 성능 최적화 경험**
 
 ## Chrome Extension
@@ -18,7 +18,7 @@
 - Chrome Storage 활용 경험
 
 ## Server
-- **Springboot / NestJS**
+- **Springboot**
 - REST API 설계 및 기본 인증/인가 처리
 - API 서버 및 데이터 연동 로직 구현
 
