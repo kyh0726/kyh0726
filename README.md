@@ -37,6 +37,7 @@
 - **Turborepo**, **Changeset**, **Husky**
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyh0726&show_icons=true&theme=tokyonight)
+
+![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kyh0726&show_icons=true&theme=tokyonight)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younghyun753)
 
